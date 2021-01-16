@@ -1,1 +1,1 @@
-# egg-maggi
+# MAGGI-EGG RECIPES
